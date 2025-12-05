@@ -7,3 +7,4 @@ Fedora Linux adalah sistem oerasi yang menggunakan Linux sebagai kernelnya untuk
 
 2.3.2 Init System
 Init System adalah software yang bertugas untuk memproses 
+asdasda
