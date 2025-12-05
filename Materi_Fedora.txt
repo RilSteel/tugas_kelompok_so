@@ -2,9 +2,8 @@ Materi SO
 
 2.3 Komponen Sistem Fedora:
 
-Kernel
-Fedora Linux adalah sistem oerasi yang menggunakan Linux sebagai kernel-nya untuk berinteraksi dengan hardware. Dikarenakan Linux kernel adalah suatu software yang open source, setiap pengguna sistem operasi berbasis Linux termasuk juga Fedora Linux mampu mengedit source code pada kernel sesuai dengan kehendak pengguna secara gratis.
+2.3.1 Kernel
+Fedora Linux adalah sistem oerasi yang menggunakan Linux sebagai kernelnya untuk berinteraksi dengan hardware. Dikarenakan Linux kernel adalah suatu software yang open source, setiap pengguna sistem operasi berbasis Linux termasuk juga Fedora Linux mampu mengedit source code pada kernel sesuai dengan kehendak pengguna secara gratis. Fedora sendiri melakukan beberapa perubahan pada Linux kernel yang membedakanya dengan distro lain seperti dukungan kompatibilitas dengan hardware terbaru seperti CPU & GPU atau integrasi dengan sistem yang digunakan didalam fedora (systemd, pipewire, SELinux, dll) . Fedora juga selalu menggunakan versi kernel Linux terbaru untuk peningkatan performa & keamanan yang ada pada Linux versi terbaru yang memungkinkan pihak pengembang melakukan beberapa uji coba untuk software yang mereka kembangkan. Hal ini berbeda dengan beberapa distro Linux lainya seperti Debian atau Ubuntu yang menggunakan versi kernel Linux Long-Term Support (LTS) untuk menjaga stabilitas kernel
 
-Init System
+2.3.2 Init System
 Init System adalah software yang bertugas untuk memproses 
-
