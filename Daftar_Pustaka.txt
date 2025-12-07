@@ -1,4 +1,14 @@
 GeeksforGeeks. 2025. Fedora Linux Operating System ("https://www.geeksforgeeks.org/linux-unix/fedora-operating-system/", diakses pada 7 Desember 2025).
-Wikipedia. 2010. systemd ("https://en.wikipedia.org/wiki/Systemd, diakses pada 7 Desember 2025")
+Wikipedia. 2025. systemd ("https://en.wikipedia.org/wiki/Systemd, diakses pada 7 Desember 2025")
 Fedoraproject. 2024. DNF("https://docs.fedoraproject.org/en-US/fedora/f40/system-administrators-guide/package-management/DNF/", diakses pada 7 Desember 2025).
-Wikipedia. 2015. DNF("https://en.wikipedia.org/wiki/DNF_(software)", diakses pada 7 Desember 2025).
+Wikipedia. 2025. DNF("https://en.wikipedia.org/wiki/DNF_(software)", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Bootloader ("https://en.wikipedia.org/wiki/Bootloader", diakses pada 7 Desember 2025).
+Wikipedia. 2025. GNU GRUB ("https://en.wikipedia.org/wiki/GNU_GRUB", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Filesystem ("https://en.wikipedia.org/wiki/File_system", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Btrfs ("https://en.wikipedia.org/wiki/Btrfs", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Copy-on-Write ("https://en.wikipedia.org/wiki/Copy-on-Write", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Pipewire ("https://en.wikipedia.org/wiki/PipeWire", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Windowing System("https://en.wikipedia.org/wiki/Windowing_system#Display_server", diakses pada 7 Desember 2025).
+Wikipedia. 2025. X Window System ("https://en.wikipedia.org/wiki/X_Window_System", diakses pada 7 Desember 2025).  
+Wikipedia. 2025. Wayland ("https://en.wikipedia.org/wiki/Wayland_(protocol)", diakses pada 7 Desember 2025).
+Wikipedia. 2025. Desktop enviroment ("https://en.wikipedia.org/wiki/Desktop_environment", diaksed pada 7 Desember 2025).
