@@ -1,5 +1,6 @@
 Materi SO
 
+=============================================================================
 2.3 Komponen Sistem Fedora:
 
 2.3.1 Linux  Kernel
@@ -31,3 +32,17 @@ Pipewire adalah low level server dan multimedia framework untuk menangani stream
 Display Server Protocol adalah software yang mengatur bagaimana aplikasi yang menggunakan GUI (klien) berkomunikasi dengan perangkat lunak server tampilan (compositor/window manager) untuk menggambarkan window aplikasi, menangani input mouse/keyboard, dan mengelola output visual. Fedora awalnya menggunakan X11 (Xorg) sebagai Display Server Protocol namun semenjak x11 tidak lagi dipelihara oleh pihak pengembang x11, Fedora mengganti x11 dengan Wayland yang menawarkan keamanan, performa, dan fitur lainya yang lebih unggul semenjak Fedora 43.                                                                                                                                                               
 2.3.9 Desktop Enviroment
 Desktop Enviroment adalah GUI yang menghubungkan user dengan sistem operasi menggunakan beberapa komponen seperti icon, windows, menu, dan lain-lain. Pada Fedora Linux, khususnya pada Fedora workstation, Fedora menggunakan GNOME sebagai Desktop Enviroment bawaan, namun Fedora juga mendukung penggunaan beberapa Desktop Enviroment yang lain seperti KDE Plasma, XFCE, Cinnamon, dan MATE yang dapat dikonfigurasi pada awal penginstallan sistem operasi.
+
+=============================================================================
+2.6 Fedora Sebagai Alat Development dan DevOps
+
+Fedora adalah salah satu distribusi Linux yang paling ramah bagi developer, karena Fedora selalu menggunakan versi software yang tercanggih, memiliki  siklus rilis yang cepat, dan kepatuhan yang ketat terhadap teknologi upstream. Kualitas-kualitas ini menjadikan Fedora pilihan yang sangat baik untuk pemrograman, alur kerja DevOps, CI/CD, pengembangan kontainer, dan cloud-native tools.
+
+Selain penggunaan teknologi yang terbaru, Fedora juga memudahkan proses pengembangan seperti berbagai bahasa pemrograman yang seperti C++ dan Python yang langsung tersedia pada awal instalasi Fedora, kemudahan instalasi dependacies dengan package manager DNF yang memilki performa yang bagus dalam proses manajemen package dan kelengkapan package yang tersedia pada repositori DNF, kemudahan dalam penggunaan containerized enviroment dengan command toolbox, dukungan berbagai Kubernetes tools untuk mengotomatiskan deployment, scaling, dan pengelolaan containerized application, dan kemudahan mengkonfigurasi virtual machine untuk keperluan testing dan lain-lain. 
+
+Fedora juga sangat mudah untuk dikostumisasi untuk kebutuhan pengembangan  seperti membuat script yang dapat digunakan untuk berbagai keperluan sesuai kebutuhan pengguna seperti script yang  langsung  menjalankan program yang akan dicompile, otomisasi backup file, dan lain-lain.
+
+=============================================================================
+2.8 Kekurangan dan Kelemahan Fedora Sebagai Sistem Operasi
+
+

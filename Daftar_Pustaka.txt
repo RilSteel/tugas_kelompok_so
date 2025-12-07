@@ -12,3 +12,4 @@ Wikipedia. 2025. Windowing System("https://en.wikipedia.org/wiki/Windowing_syste
 Wikipedia. 2025. X Window System ("https://en.wikipedia.org/wiki/X_Window_System", diakses pada 7 Desember 2025).  
 Wikipedia. 2025. Wayland ("https://en.wikipedia.org/wiki/Wayland_(protocol)", diakses pada 7 Desember 2025).
 Wikipedia. 2025. Desktop enviroment ("https://en.wikipedia.org/wiki/Desktop_environment", diaksed pada 7 Desember 2025).
+Fedoraprojects. 2015. Workstation/Workstation PRD ("https://fedoraproject.org/wiki/Workstation/Workstation_PRD", diaksed pada 7 Desember 2025).
