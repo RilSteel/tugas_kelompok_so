@@ -1,1 +1,4 @@
 GeeksforGeeks. 2025. Fedora Linux Operating System ("https://www.geeksforgeeks.org/linux-unix/fedora-operating-system/", diakses pada 7 Desember 2025).
+Wikipedia. 2010. systemd ("https://en.wikipedia.org/wiki/Systemd, diakses pada 7 Desember 2025")
+Fedoraproject. 2024. DNF("https://docs.fedoraproject.org/en-US/fedora/f40/system-administrators-guide/package-management/DNF/", diakses pada 7 Desember 2025).
+Wikipedia. 2015. DNF("https://en.wikipedia.org/wiki/DNF_(software)", diakses pada 7 Desember 2025).
