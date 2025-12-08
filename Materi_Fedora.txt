@@ -44,5 +44,14 @@ Fedora juga sangat mudah untuk dikostumisasi untuk kebutuhan pengembangan  seper
 
 =============================================================================
 2.8 Kekurangan dan Kelemahan Fedora Sebagai Sistem Operasi
+Makalah ini sudah dipenuhi dengan beberapa kelebihan dan keunggulan Fedora Linux sebagai sistem operasi, namun Fedora juga memiliki beberapa kekurangan dan kelemahan jika dibandingkan sistem operasi lainya sebagai berikut.
 
+2.8.1 Fedora verus Windows 
+Windows dikenal sebagai sistem operasi yang ramah digunakan untuk user pemula dibandingkan beberapa sistem operasi lainya yang berbasis linux seperti Fedora, kompatibilitas dengan aplikasi dan hardware yang lebih luas seperti GPU Nvidia yang dikenal sulit di konfigurasi pada OS berbasis linux, dan komunitas yang lebih luas yang memudahkan troubleshooting jika terjadi masalah pada Windows.
 
+Namun Fedora juga memiliki beberapa kelebihan dibandingkan Windows dalam sisi penggunaan RAM yang jauh lebih ringan, kontrol yang lebih penuh atas sistem, dan kustomisasi yang jauh lebih bagus beberapa fitur seperti pemilihan Desktop Enviroment, shell, dan lain-lain.
+
+2.8.2 Fedora versus Ubuntu 
+Walaupun sesama sistem operasi berbasis linux, Ubuntu memiliki beberapa perbedaan dibandingkan Fedora seperti lebih ramah untuk user pemula, siklus update yang dirilis secara rutin dan Long-Term Support untuk berbagai versi Ubuntu dibandingkan Fedora yang memiliki siklus update yang tidak tentu dan hanya memelihara suatu versi Fedora selama satu tahun saja, penggunaan versi kernel Linux yang lebih stabil dibandingkan Fedora yang selalu menggunakan versi terbaru, dan Package Manager pada Ubuntu (DEB dan APT) memiliki repositori yang lebih luas dibandingkan DNF.
+
+Dapat disimpulkan dari kedua perbandingan diatas bahwa kelemahan Fedora linux meliputi beberapa hal seperti kurang ramah untuk user pemula untuk mengkonfigurasi sistem, penggunaan software terbaru yang kemungkinan masih eksperimental dan memungkinkan terjadinya error yang belum ditemukan penyelesainya sehingga user harus mencari akar masalahnya sendiri, dan siklus update yang cepat dengan jangka support yang pendek (12 bulan).
