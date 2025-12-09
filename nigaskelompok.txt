@@ -1,0 +1,26 @@
+BSI Today. (2025). Sistem Operasi. Diakses pada [5 Desember 2025], dari https://bsi.today/sistem-operasi/
+Wikipedia. (2025). Unix. Diakses pada [5 Desember 2025], dari https://id.wikipedia.org/wiki/Unix
+Fedora Project. (2025). Project Documentation. Diakses pada [5 Desember 2025], dari https://docs.fedoraproject.org/en-US/project/
+Fedora Project. (2025). Upstream First. Diakses pada [5 Desember 2025], dari https://docs.fedoraproject.org/en-US/project/upstream-first/
+Wikipedia. (2025). Fedora Project. Diakses pada [5 Desember 2025], dari https://en.wikipedia.org/wiki/Fedora_Project
+GeeksforGeeks. (2025). Fedora Operating System. Diakses pada [5 Desember 2025], dari https://www.geeksforgeeks.org/linux-unix/fedora-operating-system/
+Fedora Project. (2025). Historical Release Schedules. Diakses pada [5 Desember 2025], dari https://fedoraproject.org/wiki/Releases/HistoricalSchedules
+Fedora Magazine. (2025). Fedora Magazine Articles. Diakses pada [5 Desember 2025], dari https://fedoramagazine.org/
+Fedora Project. (2025). Security Features. Diakses pada [5 Desember 2025], dari https://fedoraproject.org/wiki/Security_Features
+Fedora Project. (2025). Server Technical Specification. Diakses pada [5 Desember 2025], dari https://docs.fedoraproject.org/en-US/server-working-group/docs/server-technical-specification/
+GeeksforGeeks. (2025). Fedora Linux Operating System. Diakses pada [7 Desember 2025], dari https://www.geeksforgeeks.org/linux-unix/fedora-operating-system/
+Wikipedia. (2025). systemd. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Systemd
+Fedora Project. (2024). DNF Package Manager. Diakses pada [7 Desember 2025], dari https://docs.fedoraproject.org/en-US/fedora/f40/system-administrators-guide/package-management/DNF/
+Wikipedia. (2025). DNF (Software). Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/DNF_(software)
+Wikipedia. (2025). Bootloader. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Bootloader
+Wikipedia. (2025). GNU GRUB. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/GNU_GRUB
+Wikipedia. (2025). File System. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/File_system
+Wikipedia. (2025). Btrfs. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Btrfs
+Wikipedia. (2025). Copy-on-Write. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Copy-on-Write
+Wikipedia. (2025). PipeWire. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/PipeWire
+Wikipedia. (2025). Windowing System (Display Server). Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Windowing_system#Display_server
+Wikipedia. (2025). X Window System. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/X_Window_System
+Wikipedia. (2025). Wayland (Protocol). Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Wayland_(protocol)
+Wikipedia. (2025). Desktop Environment. Diakses pada [7 Desember 2025], dari https://en.wikipedia.org/wiki/Desktop_environment
+Fedora Project. (2015). Workstation PRD. Diakses pada [7 Desember 2025], dari https://fedoraproject.org/wiki/Workstation/Workstation_PRD
+
