@@ -1,0 +1,21 @@
+Kesimpulan & Saran 
+
+3.1 Kesimpulan
+
+1.
+Setelah Linus Torvalds membuat kernel linux menjadi FOSS, Fedora Linux merupakan salah satu sistem operas yang muncul berdasarkan turunan dari Red Hat Linux yang awalnya memiliki versi Enterprise lalu dipecah dan dijadikan Free dan Open Source tersendiri, ini adalah awal mula dari kelahiran Fedora Linux.
+
+2.
+Fedora memiliki prinsip pengembangan yaitu "Upstream First" yang menjadi dasar landasannya dalam pengembangan ekosistemnya, Upstream ini berarti proyek-proyek open-source yang terintegrasi dan menjadi bagian dari distribusinya. Model upstream ini memengaruhi cara Fedora dalam merawat software-software yang terintegrasi demi keuntungan kompabilitas, kemudahan integrasi pembaruan, dan keterbukaan kontribusi dengan downstream yang artinya fedora menambahkan patch spesifik pada proyek yang terintegrasi tersebut. Prinsip ini juga bersinergi dengan empat nilai dasar fedora yaitu, Freedom artinya bebas dan terbuka, Friends artinya komunitas yang terbuka atau siapa saja dapat berkontribusi, Features yang artinya dedikasi dalam menyediakan dan mengembangkan fiturnya, dan First artinya keberanian menjadi pionir dalam mengadopsi teknologi baru.
+
+3.
+Salah satu nilai dasar dalam Fedora adalah Freedom yang artinya bebas dan terbuka, hal ini dapat dilihat dari berbagai sistem komponen linux yang Free dan Open Source mulai dari kernel linux, GRUB bootloader, Systemd Init system, serta berbagai Desktop Enviroment yang Free dan Open Source seperti GNOME, KDE Plasma, dan lain-lain. 
+
+5.
+Kepatuhan Fedora pada teknologi upstream dan penggunaan teknologi terbaru menjadikan Fedora cocok sebagai sistem operasi untuk pengembangan software dan siklus DevOps karena memungkinkan developer untuk menguji coba software yang dikembangkan menggunakan versi kernel terbaru atau menggunakan teknologi terbaru yang dapat digunakan dalam software yang sedang dikembangkan. Selain penggunaan teknologi yang terbaru, Fedora juga memiliki beberaoa fitur Quality of Life (QoL) yang mempermudah proses pengembangan seperti package manager DNF yang memiliki performa baik dalam proses manajemen package yang ingin digunakan, berbagai developer tools yang memudahkan proses seperti containerized, virtual machine, dan lain-lain. Fedora juga bisa dikustomisasi atau dikonfigurasi untuk membuat berbagai script yang dapat membantu workflow developer seperti automated backup, compile and run script, dan lain-lain
+
+7.
+Fedora namun memiliki beberapa kekurangan dan kelemehan dibandingkan sistem operasi lain seperti penggunaan teknologi terbaru yang kemungkinan masih eksperimental, kurang ramah untuk user pemula, kompatibilitas yang terbatas terhadap berbagai aplikasi dan beberapa hardware seperti GPU Nvidia, dan siklus update yang cepat dengan jangka waktu dukungan suatu versi Fedora yang pendek yaitu 12 bulan
+
+Saran:
+Dengan disusunya makalah ini
